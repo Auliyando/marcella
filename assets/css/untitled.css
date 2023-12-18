@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  section#services {
+    background: url("../../assets/img/bg/Salinan%20dari%20Porto%20Bisbus%20(3).png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+.portfolio-modal .modal-content h2, .portfolio-modal .modal-content .h2 {
+  font-size: 2.3em;
+  margin-bottom: 15px;
+}
+

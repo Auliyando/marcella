@@ -1,0 +1,28 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #fcc287!important;
+}
+
+a:hover {
+  color: #fcc287;
+}
+
+#email {
+  max-width: 70vw;
+}
+
+#page-top {
+  width: 100vw;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+@media (max-width: 576px) {
+  #colemail {
+    visibility: hidden;
+  }
+}
+
